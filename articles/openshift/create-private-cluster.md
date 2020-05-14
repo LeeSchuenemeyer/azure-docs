@@ -23,6 +23,10 @@ If you choose to install and use the CLI locally, this tutorial requires that yo
 
 ## Before you begin
 
+>[!NOTE]
+> Azure Red Hat OpenShift 4.3 is only available in select Azure Regions as of 05/14/2020.  Azure Red Hat OpenShift 4.3 is currently in the following regions: Australia East, East US, East US 2, North Europe, South Central US, South East Asia, UK South, West Europe, and West US 2.
+
+
 ### Install the 'az aro' extension
 The `az aro` extension allows you to create, access, and delete Azure Red Hat OpenShift clusters directly from the command line using the Azure CLI.
 
